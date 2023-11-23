@@ -69,7 +69,7 @@ async def chatgpt(message: types.Message):
   <img src="image/Run code.png" width="1200"/>
  <div style="display: flex; align-items: center; justify-content: center;">
     <img src="image/ChatGPT_TeleBot.jpg" width="220" style="margin-right: 10px;" />
-    <img src="image/API not supported.webp" width="780"/>
+    <img src="image/API not supported.webp" width="580"/>
 </div>
 
 
