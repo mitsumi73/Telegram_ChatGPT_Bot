@@ -66,12 +66,10 @@ async def chatgpt(message: types.Message):
 ```
 ## Execution Results
 <a href="#" target="_blank">
-  <img src="/Users/home/Library/CloudStorage/OneDrive-kyonggi.ac.kr/Project/Telegram_ChatGPT_Bot/image/Run code.png" width="1200"/>
-
-<div style="text-align: left;">
-  <img src="/Users/home/Library/CloudStorage/OneDrive-kyonggi.ac.kr/Project/Telegram_ChatGPT_Bot/image/ChatGPT_TeleBot.jpg" width="320" style="float: left; margin-right: 10px;" />
-  <img src="/Users/home/Library/CloudStorage/OneDrive-kyonggi.ac.kr/Project/Telegram_ChatGPT_Bot/image/API not supported.webp" width="580" style="float: right;" />
+  <img src="image/Run code.png" width="1200"/>
+ <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="image/ChatGPT_TeleBot.jpg" width="220" style="margin-right: 10px;" />
+    <img src="image/API not supported.webp" width="780"/>
 </div>
-
 
 
