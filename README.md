@@ -2,7 +2,7 @@
 
 ## How to Install
 
-### Step 1: Install Python and Miniconda
+### Step 1: Install Python
 
 1. Go to the [PyCharm download page](https://www.jetbrains.com/ko-kr/pycharm/download/?section=mac).
 3. Click on the appropriate installer for your operating system.
