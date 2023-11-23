@@ -1,0 +1,11 @@
+prefix=/Users/home/Library/CloudStorage/OneDrive-kyonggi.ac.kr/Project/Telegram_ChatGPT_Bot/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/home/Library/CloudStorage/OneDrive-kyonggi.ac.kr/Project/Telegram_ChatGPT_Bot/env/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.2
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
