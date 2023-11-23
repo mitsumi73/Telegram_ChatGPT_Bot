@@ -65,5 +65,13 @@ async def chatgpt(message: types.Message):
         await message.reply("Sorry, I'm currently unable to respond due to API limitations. Please try again later.")
 ```
 ## Execution Results
+<a href="#" target="_blank">
+  <img src="/Users/home/Library/CloudStorage/OneDrive-kyonggi.ac.kr/Project/Telegram_ChatGPT_Bot/image/Run code.png" width="1200"/>
+
+<div style="text-align: left;">
+  <img src="/Users/home/Library/CloudStorage/OneDrive-kyonggi.ac.kr/Project/Telegram_ChatGPT_Bot/image/ChatGPT_TeleBot.jpg" width="320" style="float: left; margin-right: 10px;" />
+  <img src="/Users/home/Library/CloudStorage/OneDrive-kyonggi.ac.kr/Project/Telegram_ChatGPT_Bot/image/API not supported.webp" width="580" style="float: right;" />
+</div>
+
 
 
