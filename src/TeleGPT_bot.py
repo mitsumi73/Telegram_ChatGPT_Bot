@@ -8,6 +8,9 @@ import openai
 load_dotenv()
 logging.basicConfig(level=logging.INFO)
 
+OPENAI_ORGANIZATION = os.getenv("OPENAI_ORGANIZATION")
+openai.organization = OPENAI_ORGANIZATION
+
 # Set up OpenAI API key
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 openai.api_key = OPENAI_API_KEY
@@ -17,7 +20,7 @@ openai.api_key = OPENAI_API_KEY
 TOKEN = os.getenv("TOKEN")
 
 # Model used in chatGPT
-MODEL_NAME = "gpt-3.5-turbo-0613"
+MODEL_NAME = "gpt-3.5-turbo"
 
 # Initialize bot and dispatcher
 bot = Bot(token=TOKEN)
