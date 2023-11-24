@@ -32,6 +32,7 @@
 > https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getMe  
 or
 > https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
+3. `pip install -r requirements.txt`
  
 ### Step 4: Run the ChatGPT Telegram bot server
 1. Open a terminal or command prompt.
