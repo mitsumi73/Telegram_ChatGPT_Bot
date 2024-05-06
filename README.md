@@ -65,12 +65,5 @@ async def chatgpt(message: types.Message):
         logging.error(f"OpenAI API error: {e}")
         await message.reply("Sorry, I'm currently unable to respond due to API limitations. Please try again later.")
 ```
-## Execution Results
-<a href="#" target="_blank">
-  <img src="image/Run code.png" width="1200"/>
- <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="image/ChatGPT_TeleBot.jpg" width="220" style="margin-right: 10px;" />
-    <img src="image/API not supported.webp" width="580"/>
-</div>
 
 
